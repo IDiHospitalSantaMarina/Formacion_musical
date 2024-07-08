@@ -21,3 +21,6 @@ procedimiento-de-comunicación
 breves-cuestionarios
 cuestionarios
 cuestionario-1-conocimientos-sobre-nuestro-sistema-sanitario
+cuestionario-2-conocimientos-sobre-el-paciente-tipo-del-hospital-santa-marina
+cuestionario-3-conocimientos-sobre-comunicación-sanitaria-y-protección-de-datos
+cuestionario-4-conocimientos-sobre-la-intervención-musical
